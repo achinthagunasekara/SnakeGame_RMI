@@ -1,6 +1,6 @@
-/*
- * 2013
- * Archie Gunasekara
+/**
+ * @author: Archie Gunasekara
+ * @date: 2013.07.02
  */
 
 package messages;
